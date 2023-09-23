@@ -88,7 +88,7 @@ ul li{
     text-align: center;
 }
 
-.card img{
+.card .imagem{
     max-width: 80px;
     height: auto;
     margin-bottom: 20px;
@@ -184,4 +184,20 @@ footer a{
     margin: 10%;
 }
 
+img{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-left: 25em;
+   padding-right: 25em;
+   
+}
 
+
+
+.imagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 21em;
+}
